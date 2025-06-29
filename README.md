@@ -22,7 +22,7 @@ When you loggin the world installd the datapack, you can see the main menu messa
 
 You can click the [Click here to set English] in chat to change the meessage in English.
 
-So, if you want to get noteblock, click the [Move menu] in chat for get menu.
+So, if you want to get noteblock, click the [Get menu] in chat for get menu.
 
 You can get noteblock with pitch set only click in the menu.
 
@@ -37,13 +37,13 @@ For more info, to see wiki (but,sorry it is also Japanese)
 マインクラフトで音ブロックを使いやすくするデータパックです
 
 利用規約
-1. 自作発言の禁止
+1.自作発言の禁止
 
-2. 改変は個人利用のみ可とする
+2.改変は個人利用のみ可とする
 
-	改変したものを配布しないでください
+改変したものを配布しないでください
 
-3. その他質問等はDiscordに連絡してください
+3.その他質問等はDiscordに連絡してください
 
 discordid: wagglyzebra9743
 
