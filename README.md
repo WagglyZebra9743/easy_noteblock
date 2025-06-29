@@ -20,7 +20,6 @@ In addition, you can display information of noteblock in the line of sight.
 This distance can chenge in main menu message.
 For more info, to see wiki (but,sorry it is also Japanese)
 
-
 マインクラフトで音ブロックを使いやすくするデータパックです
 
 利用規約
